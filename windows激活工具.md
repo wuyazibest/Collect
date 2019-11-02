@@ -1,4 +1,4 @@
-windows 激活脚本
+windows 激活脚本   
 xxx.bat
 
 加密:CFB

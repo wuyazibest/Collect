@@ -20,3 +20,6 @@ dir
 
 同样可实现
 clear = cls 等
+
+
+![image](https://user-images.githubusercontent.com/39460149/107839596-d9918e00-6de7-11eb-8cfe-9536722aa367.png)

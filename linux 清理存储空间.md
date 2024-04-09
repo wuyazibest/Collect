@@ -11,4 +11,8 @@ du -sh /* | sort -nr
 
 查看二级目录下子目录和文件的占用空间   
 du -sh /opt/* | sort -nr  
+
  
+查看当前目录下的所有文件夹的使用情况  
+du -h --max-depth=1  
+

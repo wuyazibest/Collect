@@ -19,3 +19,6 @@
     用新生成的注册信息替换掉原来的 然后还原 原配置  
     <property name="database.notebook.setting.id" value="d5a5deed-f489-4b0b-9905-ec2ec3496321" />  
     <property name="evlsprt3.202" value="19" />  
+
+
+https://3.jetbra.in/
